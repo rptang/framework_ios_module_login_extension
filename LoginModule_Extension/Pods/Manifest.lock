@@ -1,0 +1,16 @@
+PODS:
+  - CTMediator (25)
+
+DEPENDENCIES:
+  - CTMediator
+
+SPEC REPOS:
+  https://github.com/rptang/podspec.git:
+    - CTMediator
+
+SPEC CHECKSUMS:
+  CTMediator: b68702d5cd41af9d5e74110dfa39fb28d36c6de1
+
+PODFILE CHECKSUM: 437756a568570c38bb65193d1203e2c986e2f863
+
+COCOAPODS: 1.5.3
