@@ -5,12 +5,12 @@ DEPENDENCIES:
   - CTMediator
 
 SPEC REPOS:
-  https://github.com/rptang/podspec.git:
+  https://github.com/cocoapods/specs:
     - CTMediator
 
 SPEC CHECKSUMS:
-  CTMediator: b68702d5cd41af9d5e74110dfa39fb28d36c6de1
+  CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
 
-PODFILE CHECKSUM: 437756a568570c38bb65193d1203e2c986e2f863
+PODFILE CHECKSUM: feb06c735ab693946436d20b5773be4c19e5f5fd
 
 COCOAPODS: 1.5.3
